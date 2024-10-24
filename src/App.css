@@ -65,6 +65,10 @@
     html, body, #root {
         @apply h-full w-full text-[15px] font-semibold text-[#041d32] bg-white;
     }
+
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
 }
 
 .pagination-page {
